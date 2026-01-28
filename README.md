@@ -2,7 +2,7 @@
 
 This repository contains the firmware update file for the **Pormido D50 Mirror Dashcam**. Use these files to update your device to version `20240101_V0.1`.
 
-## 📦 Firmware Details
+## Firmware Details
 - **Version:** 20240101_V0.1
 - **File Name:** `SD_CarDV.bin`
 - **Release Date:** January 1, 2024
@@ -35,5 +35,5 @@ Follow these steps carefully to ensure a successful update. **Do not power off t
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 *Update at your own risk. Ensure your dashcam is connected to a stable power source (car charger or hardwire kit) during the update. A power failure during the flashing process can "brick" the device.*
